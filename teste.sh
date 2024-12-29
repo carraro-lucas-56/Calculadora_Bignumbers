@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# script para testar as instâncias
+
 in=$(ls instances | grep -F .in | cut -f1 --delimiter='.')
 
 for i in $in

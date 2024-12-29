@@ -1,3 +1,0 @@
-Este projeto é uma implementação de uma calculadora para números inteiros arbitrariamente grandes em linguagem C. A calculadora é capaz de realizar operações matemáticas básicas (adição, subtração, multiplicação, divisão inteira, resto da divisão e exponenciação) com precisão, mesmo para números que excedem os limites padrão de variáveis numéricas como int, long ou double.
-
-O objetivo é fornecer uma ferramenta eficiente para manipular números de qualquer tamanho e realizar cálculos precisos, sem perda de informações devido a limitações de tamanho ou arredondamentos.
